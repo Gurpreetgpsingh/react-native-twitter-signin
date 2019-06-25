@@ -1,7 +1,4 @@
 {
-  "dependencies": {},
-  "peerDependencies": {
-  },
   "deprecated": false,
   "description": "Social Signin with Twitter",
   "engines": {
@@ -9,10 +6,6 @@
   },
   "homepage": "https://github.com/GoldenOwlAsia/react-native-twitter-signin.git",
   "keywords": [
-    "react",
-    "react-native",
-    "react native",
-    "native",
     "twitter",
     "signin",
     "social signin",
